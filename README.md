@@ -21,7 +21,7 @@ This forex API Python library delivers full solution for accessing currency quot
 Clone the repository and install any dependencies listed in `requirements.txt`:
 
 ```bash
-git clone https://github.com/fcsapi/Forex-API-Python.git
+git clone https://github.com/forexratesapi619/Forex_Api_Python.git
 cd Forex_Api_Python
 pip install -r requirements.txt
 ```
@@ -144,9 +144,8 @@ OIUTPUT:
     "website" : "ecb.europa.eu", 
     "symbol" : "€", 
     "bank" : "European Central Bank", 
-    "banknotes" : '€5, €10, €20, €50, €100'
-    "coins" : '1c, 2c, 5c, 10c, 20c, 50c, €1, €2'
-    "icon" : "https://fcsapi.com/assets/images/flags/eur.svg", 
+    "banknotes" : '€5, €10, €20, €50, €100',
+    "coins" : '1c, 2c, 5c, 10c, 20c, 50c, €1, €2',
     "type" : "forex", 
     }, {and more} 
     ```
